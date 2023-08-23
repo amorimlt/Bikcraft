@@ -12,6 +12,8 @@
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 
+@import "./bicicleta/bicicleta.css";
+
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
