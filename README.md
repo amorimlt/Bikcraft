@@ -3,9 +3,9 @@
 
 The fictitious Bikcraft project was completely developed, starting from prototyping in Figma, HTML coding, CSS styling and JavaScript animations.
 
-Clique em [Bikcraft](https://amorimlt.github.io/Bikcraft/) para acessar.
+Click [Bikcraft](https://amorimlt.github.io/Bikcraft/) to access.
 
-<h3 id="tecnologias">⚙️ Tecnologias Utilizadas</h3>
+<h3 id="tecnologias">⚙️ Technologies used</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="Juliane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
