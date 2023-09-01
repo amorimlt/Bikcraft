@@ -15,6 +15,6 @@ Click [Bikcraft](https://amorimlt.github.io/Bikcraft/) to access.
 
 <h3>📌 Project status</h3>
 
-In final details ​​👨‍💻​
+<h4>👨‍💻 concluded ​​<h4>
 
 developed with ❤️ by Juliane Amorim
